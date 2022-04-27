@@ -10,7 +10,7 @@
 
 ---
 
-Implementei várias funções para atender aos requisitos propostos e garantir que todas as funções passem nos testes unitários.
+Implementei várias funções utilizando higher order functions para atender aos requisitos propostos e garantir que todas as funções passem nos testes unitários.
 
 ---
 
